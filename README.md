@@ -1,4 +1,4 @@
-# Hackathon-2021-Reinder-Max-Team
+# Hackathon-2021-Reindeer-Max-Team
 By Reindeer Max Team
 
 Hello everyone. We are three middle schoolers who love the computer and program. We are Reindeer Max team. Our project is focus detective system, which is an application to detect student’s distraction when they don’t pay attention to the class during online learning. 
