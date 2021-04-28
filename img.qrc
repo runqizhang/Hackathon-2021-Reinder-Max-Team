@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+        <file>camera.png</file>
+    </qresource>
+    <qresource>
+        <file>exit.png</file>
+    </qresource>
+
+</RCC>
