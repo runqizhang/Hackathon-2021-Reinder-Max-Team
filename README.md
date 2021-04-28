@@ -17,8 +17,11 @@ Application original interface
 If application detects the distraction, the warning will arise. There are two ways of warning: the first is to play a beep sound when the application detects fatigue or off-job. The second way is to display a message in application interface. 
 The check box below shows specific types of distraction: yawn, nodding, wink, and off-job. The user can select what the type they want to detect. An indicator shows how many times the students wink, yawn, or nod detected by the camera screen. 
 The start button at the top right corner allows the user to start the detection. The stop button allows the user to stop the application. The save status button can save log of students’ detection history. Quit button means withdraw from application. The panel on the right side is a status log. It tracks and displays all the information including the time and date of the app operations. The operations include what the user input or change for settings, the camera status and the fatigue or off-job warnings.
+
+
 ![image](https://user-images.githubusercontent.com/57511227/116427907-04cc3b00-a877-11eb-8c8f-3eb737494012.png) 
 Application interface upon starting detection     
+
 
 ![image](https://user-images.githubusercontent.com/57511227/116427966-0f86d000-a877-11eb-8b10-3c8b890963ac.png)
 Saved Status log
