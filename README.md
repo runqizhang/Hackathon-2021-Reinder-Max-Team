@@ -4,13 +4,13 @@ Project Description of Focus Detective System
 Our application can help schools, teachers or parents to solve the problem of distraction of students when they have online class.
 Below is project flow chart:
 
- ![image](https://user-images.githubusercontent.com/57511227/116427874-fbdb6980-a876-11eb-9b44-2f1a9fd39822.png)
+![image](https://user-images.githubusercontent.com/57511227/116428159-40670500-a877-11eb-8bd0-5a31ebb1ee4e.png)
 
 
 
 This software detects two major types of distraction: Fatigue and Off-job. Fatigue means the tiredness of students in front of screen. They will show yawn, nod-off for snooze, or frequent wink because of tiredness on their facial expression.  Off-job means the absence of students in front of screen. At the same time, we need to distinguish between the normal facial expression and the distraction expression. So, there is time boxes of fatigue and off-job are to input the minimum duration of time needed for real distraction. The default time is 3 seconds, but user can change it by their judgement. 
 
-![image](https://user-images.githubusercontent.com/57511227/116427881-fe3dc380-a876-11eb-8607-21dbedcc5e86.png)
+![image](https://user-images.githubusercontent.com/57511227/116428189-465ce600-a877-11eb-8987-ddfaff8b7105.png)
 Application original interface
 
 
